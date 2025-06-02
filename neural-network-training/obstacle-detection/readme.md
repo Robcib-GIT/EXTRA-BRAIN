@@ -4,8 +4,11 @@ This repository provides resources and documentation for a project using YOLOv8m
 ## 🔗 Resources and Downloads
 
 ### 🧠 Trained Model
-
-- 📦 **Download model and training results**  
+- 📦 **Download model best.pt**  
+  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15573845.svg)](https://doi.org/10.5281/zenodo.15573845)
+  🔗 https://zenodo.org/records/15573845
+  
+- 📦 **Download training results**  
   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15573496.svg)](https://doi.org/10.5281/zenodo.15573496)
   🔗 https://zenodo.org/records/15573496
 

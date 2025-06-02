@@ -21,3 +21,4 @@ This repository provides resources and documentation for a project using YOLOv8m
 - 🗂️ **Download Victim detection in rescue dataset (YOLO format)**  
  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15253074.svg)](https://doi.org/10.5281/zenodo.15253074)
   🔗 https://zenodo.org/records/15253074
+.

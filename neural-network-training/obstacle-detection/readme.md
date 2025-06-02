@@ -1,6 +1,6 @@
 # 🧠 YOLOv8m-Seg for Obstacle Detection (300 Epochs)
 This repository provides resources and documentation for a project using YOLOv8m with instance segmentation, trained for 300 epochs in a simulated environment.
-## 📁 Repository Structure
+
 ## 📊 Model Description
 
 - **Model**: YOLOv8m (Segmentation)

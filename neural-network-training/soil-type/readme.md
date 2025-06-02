@@ -20,4 +20,4 @@ This repository provides resources and documentation for a project using YOLOv8m
 
   - 🗂️ **Download Obstacle detection P dataset (PASCAL VOC format)**  
  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15575038.svg)](https://doi.org/10.5281/zenodo.15575038)
-  🔗 hhttps://zenodo.org/records/15575038
+  🔗 https://zenodo.org/records/15575038

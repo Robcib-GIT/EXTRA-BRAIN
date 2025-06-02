@@ -1,13 +1,13 @@
-# 🧠 YOLOv8m-Seg for Obstacle Detection (300 Epochs)
-This repository provides resources and documentation for a project using YOLOv8m with instance segmentation, trained for 300 epochs in a simulated environment.
+# 🧠 YOLOv8m-Seg for Obstacle Detection
+This repository provides resources and documentation for a project using YOLOv8m with instance segmentation.
 
 ## 🔗 Resources and Downloads
 
 ### 🧠 Trained Model
 
 - 📦 **Download model and training results**  
-  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15260842.svg)](https://doi.org/10.5281/zenodo.15260842)
-  🔗 https://zenodo.org/records/15260842
+  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15573496.svg)](https://doi.org/10.5281/zenodo.15573496)
+  🔗 https://zenodo.org/records/15573496
 
 ### 🖼️ Annotated Dataset (Roboflow)
 

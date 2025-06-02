@@ -14,10 +14,12 @@ This repository provides resources and documentation for a project using YOLOv8m
   🔗 https://zenodo.org/records/15574979
 
 ### 🖼️ Annotated Dataset (Roboflow)
-- 🗂️ **Download Obstacle and soil type detection dataset (YOLO format)**  
+- 🗂️ **Download Soil type detection dataset (YOLO format)**  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15575017.svg)](https://doi.org/10.5281/zenodo.15575017)
   🔗 https://zenodo.org/records/15575017
 
-  - 🗂️ **Download Obstacle detection P dataset (PASCAL VOC format)**  
- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15575038.svg)](https://doi.org/10.5281/zenodo.15575038)
+- 🗂️ **Download Soil type detection P dataset (PASCAL VOC format)**  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15575038.svg)](https://doi.org/10.5281/zenodo.15575038)
   🔗 https://zenodo.org/records/15575038
+  
+

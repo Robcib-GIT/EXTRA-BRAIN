@@ -5,8 +5,8 @@ This repository provides resources and documentation for a project using YOLOv8m
 
 ### 🧠 Trained Model
 - 📦 **Download model best.pt**  
-  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15575345.svg)](https://doi.org/10.5281/zenodo.15575345)
-  🔗 https://zenodo.o
+  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15575721.svg)](https://doi.org/10.5281/zenodo.15575721)
+  🔗 hhttps://zenodo.org/records/15575721
   
 - 📦 **Download training results**  
  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15575643.svg)](https://doi.org/10.5281/zenodo.15575643)
@@ -18,6 +18,6 @@ This repository provides resources and documentation for a project using YOLOv8m
   🔗 https://zenodo.org/records/15575608
 
 - 🗂️ **Download Detection type soil dataset (PASCAL VOC format)**  
- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15575321.svg)](https://doi.org/10.5281/zenodo.15575321)
-  🔗 https://zenodo.
+ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15575732.svg)](https://doi.org/10.5281/zenodo.15575732)
+  🔗 https://zenodo.org/records/15575732
   

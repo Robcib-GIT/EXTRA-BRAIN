@@ -1,24 +1,25 @@
-# 🧠 YOLOv8m-Seg Victim detection in rescue (300 epochs)
-This repository provides resources and documentation for a project using YOLOv8m with instance segmentation, trained for 300 epochs in a simulated environment.
-## 📁 Repository Structure
-## 📊 Model Description
+# 🧠 YOLOv8m-Seg Victim detection
+This repository provides resources and documentation for a project using YOLOv8m with instance segmentation.
 
-- **Model**: YOLOv8m (Segmentation)
-- **Epochs**: 300
-- **Training Tool**: [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
-- **Platform**: Ubuntu 20.04
-- **Input Size**: 640X640
 ## 🔗 Resources and Downloads
 
 ### 🧠 Trained Model
-
-- 📦 **Download model and training results**  
-  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15261049.svg)](https://doi.org/10.5281/zenodo.15261049)  
-  🔗 https://zenodo.org/records/15261049
+- 📦 **Download model best.pt**  
+  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15574727.svg)](https://doi.org/10.5281/zenodo.15574727)
+  🔗 https://zenodo.org/records/15574727
+  
+- 📦 **Download training results**  
+ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15574606.svg)](https://doi.org/10.5281/zenodo.15574606)
+  🔗 https://zenodo.org/records/15574606
 
 ### 🖼️ Annotated Dataset (Roboflow)
-
-- 🗂️ **Download Victim detection in rescue dataset (YOLO format)**  
- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15253074.svg)](https://doi.org/10.5281/zenodo.15253074)
-  🔗 https://zenodo.org/records/15253074
-.
+- 🗂️ **Download Obstacle detection dataset (YOLO format)**  
+  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15574656.svg)](https://doi.org/10.5281/zenodo.15574656)
+  🔗 https://zenodo.org/records/15574656
+  
+- 🗂️ **Download Obstacle detection P dataset (PASCAL VOC format)**  
+  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15574703.svg)](https://doi.org/10.5281/zenodo.15574703)
+  🔗 https://zenodo.org/records/15574703
+  
+#### Note: a victim tag is added
+  

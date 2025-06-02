@@ -21,6 +21,4 @@ This repository provides resources and documentation for a project using YOLOv8m
  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15575321.svg)](https://doi.org/10.5281/zenodo.15575321)
   🔗 [https://zenodo.org/records/15575222](https://zenodo.org/records/15575321)
   
-  - 🗂️ **Download Ground type detection P dataset (PASCAL VOC format)**  
-  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15575321.svg)](https://doi.org/10.5281/zenodo.15575321)
-  🔗 https://zenodo.org/records/15575321
+

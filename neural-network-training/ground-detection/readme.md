@@ -8,7 +8,7 @@ This repository provides resources and documentation for a project using YOLOv8m
   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15575345.svg)](https://doi.org/10.5281/zenodo.15575345)
   🔗 https://zenodo.org/records/15575345
   
-- 📦 **Download model and training results**  
+- 📦 **Download training results**  
  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15575181.svg)](https://doi.org/10.5281/zenodo.15575181)
   🔗 https://zenodo.org/records/15575181
 

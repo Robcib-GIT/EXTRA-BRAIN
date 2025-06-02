@@ -13,11 +13,11 @@ This repository provides resources and documentation for a project using YOLOv8m
   🔗 https://zenodo.org/records/15574606
 
 ### 🖼️ Annotated Dataset (Roboflow)
-- 🗂️ **Download Obstacle detection dataset (YOLO format)**  
+- 🗂️ **Download Victim detection dataset (YOLO format)**  
   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15574656.svg)](https://doi.org/10.5281/zenodo.15574656)
   🔗 https://zenodo.org/records/15574656
   
-- 🗂️ **Download Obstacle detection P dataset (PASCAL VOC format)**  
+- 🗂️ **Download Victim detection P dataset (PASCAL VOC format)**  
   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15574703.svg)](https://doi.org/10.5281/zenodo.15574703)
   🔗 https://zenodo.org/records/15574703
   

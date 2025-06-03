@@ -3,20 +3,11 @@ This repository provides resources and documentation for a project using YOLOv8m
 
 ## 🔗 Resources and Downloads
 
-### 🧠 Trained Model
-- 📦 **Download model best.pt**  
-  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15576081.svg)](https://doi.org/10.5281/zenodo.15576081)
-  🔗 https://zenodo.org/records/15576081
-  
-- 📦 **Download training results**  
- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15576116.svg)](https://doi.org/10.5281/zenodo.15576116)
-  🔗 https://zenodo.org/records/15576116
-
 ### 🖼️ Annotated Dataset (Roboflow)
 - 🗂️ **Download Detection dataset (YOLO format)**  
- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15576162.svg)](https://doi.org/10.5281/zenodo.15576162)
-  🔗 https://zenodo.org/records/15576162
+ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15586655.svg)](https://doi.org/10.5281/zenodo.15586655)
+  🔗 https://zenodo.org/records/15586655
 
 - 🗂️ **Download Detection dataset (PASCAL VOC format)**  
- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15576178.svg)](https://doi.org/10.5281/zenodo.15576178)
-  🔗 https://zenodo.org/records/15576178
+ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15586667.svg)](https://doi.org/10.5281/zenodo.15586667)
+  🔗 https://zenodo.org/records/15586667

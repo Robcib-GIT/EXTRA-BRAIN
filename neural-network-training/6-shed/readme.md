@@ -15,7 +15,7 @@ This repository provides resources and documentation for a project using YOLOv8m
 ### 🖼️ Annotated Dataset (Roboflow)
 - 🗂️ **Download Detection dataset (YOLO format)**  
  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15576405.svg)](https://doi.org/10.5281/zenodo.15576405)
-  🔗 hhttps://zenodo.org/records/15576405
+  🔗 https://zenodo.org/records/15576405
 
 - 🗂️ **Download Detection dataset (PASCAL VOC format)**  
  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15576414.svg)](https://doi.org/10.5281/zenodo.15576414)

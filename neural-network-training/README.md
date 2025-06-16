@@ -26,8 +26,8 @@ The following submodules were trained with YOLOv8 object segmentation and contri
 - Victims in confined spaces |
 
 ### 🧍 VICTIM DETECTION
--Victims in open and urban settings
--Victims and obstacles in controlled environments
+- Victims in open and urban settings
+- Victims and obstacles in controlled environments
 
 ---
 

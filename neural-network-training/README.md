@@ -23,7 +23,7 @@ The following submodules were trained with YOLOv8 object segmentation and contri
 
 ### 🛖 SHED SCENARIOS
 - Multiple sheds with different victim and object configurations
-- Victims in confined spaces |
+- Victims in confined spaces 
 
 ### 🧍 VICTIM DETECTION
 - Victims in open and urban settings

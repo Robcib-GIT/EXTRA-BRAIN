@@ -40,6 +40,7 @@ This model was trained with:
 - 🔄 Fused labels and dataset extension
 - 🎯 Robust annotation across different environments
 
----
+## 🧭 Visual Overview of Dataset Integration
 
-## 📁 File Organization
+![Global Model Overview](global_model_overview.png)
+

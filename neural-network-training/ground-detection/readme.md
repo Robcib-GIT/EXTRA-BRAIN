@@ -26,8 +26,7 @@ This repository provides resources and documentation for a project using YOLOv8m
 - 🖼️ **Download Dataset of Depth**  
  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15671758.svg)](https://doi.org/10.5281/zenodo.15671758)
   🔗 https://zenodo.org/records/15671758
-
-  - 📦 **Download Depth videos**  
+- 📦 **Download Depth videos**  
  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15671805.svg)](https://doi.org/10.5281/zenodo.15671805)
   🔗 https://zenodo.org/records/15671805
 

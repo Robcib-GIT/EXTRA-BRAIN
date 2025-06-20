@@ -42,5 +42,5 @@ This model was trained with:
 
 ## 🧭 Visual Overview of Dataset Integration
 
-![Global Model Overview](global_model_overview.png)
+![Global Model Overview](global_model_overview1.png)
 

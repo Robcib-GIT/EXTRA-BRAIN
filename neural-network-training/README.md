@@ -31,7 +31,7 @@ The following submodules were trained with YOLOv8 object segmentation and contri
 
 ---
 
-## 🧪 Final Integration: Global Model
+## 🧪 Final Integration: Global Model 
 
 All datasets and trained YOLOv8 models were combined to build a **GLOBAL MODEL**
 
